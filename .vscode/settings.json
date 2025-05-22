@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "GAME2.C": "cpp",
+        "GAME.C": "cpp",
+        "SOG.C": "cpp",
+        "machine.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
