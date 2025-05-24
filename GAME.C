@@ -75,7 +75,7 @@ int main (int argc, char* args[]) {
     bool showmatrix = false;
 
     
-    // Initialize TTF
+  
     if (TTF_Init() == -1) {
         printf("TTF could not initialize! TTF_Error: %s\n", TTF_GetError());
         return 1;
